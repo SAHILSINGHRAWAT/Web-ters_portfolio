@@ -50,7 +50,7 @@ export default function Hero() {
 
   const [code] = useState(`
 const profile = {
-    companyName: 'WEBPRO',
+    companyName: 'Web$ters',
     tagline: 'Crafting Tailored Web Solutions for Your Business',
     services: [
         'E-commerce Website Development',
@@ -195,7 +195,7 @@ const profile = {
                     We are
                     <span className="typing-effect gradient-text">
                       {" "}
-                      WEBPROS
+                      Web$ters
                     </span>
                   </span>
                 </h1>
