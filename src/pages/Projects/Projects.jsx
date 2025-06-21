@@ -15,6 +15,16 @@ const projects = [
     liveLink: "https://aditi-f.onrender.com/",
   },
   {
+    title: "NSKS Cable Trays | Business Website",
+    description:
+      "Developed a responsive and professional website for NSKS Cable Trays using modern frontend technologies. Designed to showcase product offerings and company profile with clear navigation and smooth user experience. Hosted with Vercel for fast delivery.",
+    src: "4.jpg",
+    link: "https://i.postimg.cc/jj1zY7ZK/4.png",
+    color: "#2E86C1",
+    githubLink: "https://github.com/SAHILSINGHRAWAT/nsks-24May",
+    liveLink: "https://nsks-24-may.vercel.app/",
+  },
+  {
     title: "Study Notion: Full-Stack EdTech Application",
     description:
       "An EdTech platform built with the MERN stack. Implements authentication, role-based dashboards (admin, instructor, student), and course management, supporting 1,000+ users with smooth video lecture organization.",
