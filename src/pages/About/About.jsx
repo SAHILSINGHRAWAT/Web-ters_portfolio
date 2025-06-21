@@ -24,7 +24,7 @@ export default function About() {
 
             <div className="relative space-y-4">
               <p className="text-white">
-                Hello! We’re Sahil Singh Rawat and Ayush Chamola, full-stack developers and the creators of <b>WEBPROS</b>. We specialize in building fast, intuitive, and powerful web applications that deliver real-world impact.{" "}
+                Hello! We’re Sahil Singh Rawat and Ayush Chamola, full-stack developers and the creators of <b>Web$ters</b>. We specialize in building fast, intuitive, and powerful web applications that deliver real-world impact.{" "}
                 
               </p>
               <p className="text-white">
@@ -51,7 +51,7 @@ Together, we help clients turn their ideas into production-ready products — wi
                         height="20"
                         width="auto"
                       />
-                      <span className="text-white">WEBPROS</span>
+                      <span className="text-white">Web$ters</span>
                     </div>
                   </div>
                 </blockquote>
